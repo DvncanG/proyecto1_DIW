@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Asmoke;
+    src: url(../assets/fonts/Alphasmoke-OOX6.ttf);
+}
+@font-face {
+    font-family: Smokewoods;
+    src: url(../assets/fonts/Smokeinthewoods-e5q6.otf);
+}
+.text {
+    font-family: Asmoke;
+}
+.text2 {
+    font-family: Smokewoods;
+    font-size: 42px;
+}
+.text_justify {
+    width: 60%;
+    text-align: justify;
+    padding: 25px;
+    border: 1px solid blue;
+}

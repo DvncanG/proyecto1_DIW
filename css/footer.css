@@ -1,0 +1,23 @@
+.footer{
+    width: 100%;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer__lista{
+    display: flex;
+    font-size: 1.5rem;
+}
+.footer__items{
+    list-style-type: none;
+    padding: 10px;
+    border: 2px solid black;
+}
+.footer__items a{
+ text-decoration: none;
+ color: white;
+}
+.footer__items a:hover{
+    color: maroon;
+}

@@ -1,0 +1,33 @@
+.header{
+    width: 100%;
+    display: flex;
+    background-color: rgb(218, 190, 155);
+    position: sticky;
+    border-bottom: 2px solid maroon;
+}
+.header--div__sizeimg{
+    width: 200px;
+}
+.div__img{
+    width: 100%;
+}
+.nav{
+    display: flex;
+    margin-left: 25%;
+}
+.nav--ul{
+display: flex;
+list-style: none;
+font-size: 2rem; 
+
+}
+.nav--ul__li{
+ padding: 10px;
+}
+.ul--li_link{ 
+    text-decoration: none;
+    color: white;
+}
+.ul--li_link:hover{
+    color: maroon;
+}
