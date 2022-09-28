@@ -1,9 +1,10 @@
 .footer{
     width: 100%;
-    background-color: burlywood;
+    background-color: rgb(228, 197, 156);
     display: flex;
     justify-content: center;
     align-items: center;
+    border-top: 2px solid maroon;
 }
 .footer__lista{
     display: flex;
@@ -16,7 +17,7 @@
 }
 .footer__items a{
  text-decoration: none;
- color: white;
+ color: maroon;
 }
 .footer__items a:hover{
     color: maroon;

@@ -6,6 +6,10 @@
     font-family: Smokewoods;
     src: url(../assets/fonts/Smokeinthewoods-e5q6.otf);
 }
+@font-face {
+    font-family: Datter;
+    src: url(../assets/fonts/DattermatterBoldPersoinalUseRegular-GOxqg.ttf);
+}
 .text {
     font-family: Asmoke;
 }
@@ -13,9 +17,14 @@
     font-family: Smokewoods;
     font-size: 42px;
 }
+.text3{
+    font-family: Datter;
+    font-size: 60px;
+
+}
 .text_justify {
     width: 60%;
     text-align: justify;
     padding: 25px;
-    border: 1px solid blue;
+    font-size: 1.25em;
 }

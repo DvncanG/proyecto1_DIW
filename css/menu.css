@@ -13,6 +13,7 @@
 }
 .nav{
     display: flex;
+    padding-left: 10px;
     margin-left: 25%;
 }
 .nav--ul{
@@ -26,8 +27,8 @@ font-size: 2rem;
 }
 .ul--li_link{ 
     text-decoration: none;
-    color: white;
+    color: maroon;
 }
 .ul--li_link:hover{
-    color: maroon;
+    color: rgb(68, 2, 2);
 }
